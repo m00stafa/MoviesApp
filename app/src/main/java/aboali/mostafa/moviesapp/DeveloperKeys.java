@@ -6,4 +6,5 @@ package aboali.mostafa.moviesapp;
 public class DeveloperKeys {
 
     public static String APP_KEY="";
+
 }
